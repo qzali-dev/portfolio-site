@@ -75,7 +75,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/window.svg`}
+            src={`./window.svg`}
             alt="Window icon"
             width={16}
             height={16}
